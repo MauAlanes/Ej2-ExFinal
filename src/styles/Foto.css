@@ -1,0 +1,10 @@
+.foto{
+    /* Ellipse 1 */
+
+position: absolute;
+width: 287px;
+height: 287px;
+left: 398px;
+top: 261px;
+z-index: 1;
+}
